@@ -9,27 +9,27 @@ Segundo comentário
 1. Linha 3
 
 
-´´´python
+```python
 print('hello world')
-´´´
+```
 
-´´´java
+```java
 
 public class Main {
-    (String... args) {
-        System.outprintn("Hello World!!!")
+    public static main(String... args) {
+        System.out.println("Hello World!!!");
     }
 }
-´´´
+```
 
-´´´php
+```php
 echo "Hello World";
-´´´
+```
 
-´´´c++
+```c++
 #include <iostream>
 
 int main(int argc, char** argv) {
     std::cout << "Hello World" << std::endl;
 }
-´´´
+```
